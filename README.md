@@ -6,6 +6,7 @@ These are the exercise files used for [NumPy and SciPy Essential Training](https
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/python-numpy-and-scipy-essential-training-in-singapore.html
+https://www.tertiarycourses.com.my/python-numpy-and-scipy-essential-training-in-malaysia.html
 
 <p><strong>Module 1 Get Ready</strong></p>
 <ul>
